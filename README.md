@@ -15,7 +15,7 @@
 ![alt text](https://github.com/AyeshaMalikAyesha/matplotlib/blob/main/foot_preference_of_fifa_players.png?raw=true)
 
 
-![alt text](https://github.com/AyeshaMalikAyesha/matplotlib/blob/main/explodes.png?raw=true)
+![alt text](https://github.com/AyeshaMalikAyesha/matplotlib/blob/main/explode.png?raw=true)
 
 
 ![alt text](https://github.com/AyeshaMalikAyesha/matplotlib/blob/main/soccer_team_comparison.png?raw=true)
